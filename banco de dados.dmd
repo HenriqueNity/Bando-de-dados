@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="banco de dados" id="C3F511CE-2D32-20AC-2550-D1CF274D20C2" version="3.5">
-<createdBy>User</createdBy>
-<createdTime>2020-04-03 19:53:58 UTC</createdTime>
-<ownerDesignName>banco de dados</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>C3F511CE-2D32-20AC-2550-D1CF274D20C2</designId>
-</OSDM_Design>
